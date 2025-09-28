@@ -4,10 +4,10 @@
 }
 
 
-p {
-  margin-bottom: 50px;
+.hero p {
+  margin: 24px 32px 50px 32px; /* top right bottom left */
   font-size: 20px;
-  color: #000;
+  color: #000000;
   text-align: center;
 }
 

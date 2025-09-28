@@ -7,14 +7,7 @@ const Home = () => {
         <div className="hero">
             <h2>Welcome to My Portfolio</h2>
             <p>
-                Hello and welcome to my portfolio! My name is Kenny, and I am a recent high school graduate with 
-                a deep passion for computers, technology, and the growing world of artificial intelligence. At just
-                20 years old, I am eager to challenge myself, continue learning, and develop the skills necessary 
-                make an impact in this exciting field. I am currently pursuing a diploma in Artificial Intelligence
-                and Software Engineering at Centennial College, where I am gaining both theoretical knowledge and hands-on
-                experience. This program is helping me build a strong foundation in computer science while also allowing me
-                to explore emerging areas in AI, software engineering, and modern development practices. Right now,
-                my main focus is on learning and improving my technical abilities. Through my coursework, I am not only strengthening
+                Hello my name is Noor Ahmad, and my main focus is on learning and improving my technical abilities. Through my coursework, I am not only strengthening
                 my understanding of web development, but also enhancing my skills in tools like Visual Studio Code, 
                 project structuring, and software design principles. Each project and assignment pushes me to think 
                 critically, apply problem-solving strategies, and develop a mindset for continuous growth. 
