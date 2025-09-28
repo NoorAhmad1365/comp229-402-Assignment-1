@@ -1,8 +1,15 @@
+
+// Project.jsx
+// This component displays a list of projects with images, roles, and outcomes.
+// Author: Noor Ahmad
+
 const Projects = () => {
     return (
         <div>
+            {/* Main heading for projects section */}
             <h2>My Projects</h2>
-            
+
+            {/* Project 1 details */}
             <div className="project">
                 <h3>Project 1 Title</h3>
                 <img src="/project1.jpg" alt="Project 1" width="300" />
@@ -10,6 +17,7 @@ const Projects = () => {
                 <p><strong>Outcome:</strong> Describe the outcome</p>
             </div>
 
+            {/* Project 2 details */}
             <div className="project">
                 <h3>Project 2 Title</h3>
                 <img src="/project2.jpg" alt="Project 2" width="300" />
@@ -17,6 +25,7 @@ const Projects = () => {
                 <p><strong>Outcome:</strong> Describe the outcome</p>
             </div>
 
+            {/* Project 3 details */}
             <div className="project">
                 <h3>Project 3 Title</h3>
                 <img src="/project3.jpg" alt="Project 3" width="300" />
