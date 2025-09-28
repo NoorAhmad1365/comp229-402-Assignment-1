@@ -8,4 +8,5 @@ export default defineConfig({
     allowedHosts: [
       'comp229-402-assignment-1-1.onrender.com'
     ]
+  }
 })
