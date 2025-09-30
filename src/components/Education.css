@@ -1,3 +1,11 @@
+/*
+ * Styles for each education entry
+ * - Adds spacing below each item
+ * - Sets font size and color for readability
+ * - Aligns text to the left
+ * - Adds horizontal and vertical margin for layout
+ * - Uses flexbox to stack content vertically and center items
+ */
 .education-item {
 	/* Education item styling */
 	margin-bottom: 30px;
